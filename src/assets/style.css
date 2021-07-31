@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+.zone {
+    box-sizing: border-box;
+    border: 5px solid white;
+    position: relative;
+    overflow: hidden;
+    width: 1000px;
+    height: 800px;
+    margin: 2rem auto;
+}
